@@ -3,7 +3,7 @@ import React from 'react'
 export default function Button() {
   return (
     <>
-        <button>ok</button>
+        <button>Cliccami! </button>
     </>
   )
 }
